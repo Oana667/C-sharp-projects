@@ -1,0 +1,15 @@
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\bin\Debug\net6.0\Ex1Fibo.exe
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\bin\Debug\net6.0\Ex1Fibo.deps.json
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\bin\Debug\net6.0\Ex1Fibo.runtimeconfig.json
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\bin\Debug\net6.0\Ex1Fibo.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\bin\Debug\net6.0\Ex1Fibo.pdb
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.csproj.AssemblyReference.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.AssemblyInfoInputs.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.AssemblyInfo.cs
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\refint\Ex1Fibo.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.pdb
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\Ex1Fibo.genruntimeconfig.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Ex1Fibo\Ex1Fibo\obj\Debug\net6.0\ref\Ex1Fibo.dll

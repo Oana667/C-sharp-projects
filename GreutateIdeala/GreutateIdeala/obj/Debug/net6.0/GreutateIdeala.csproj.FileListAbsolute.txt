@@ -1,0 +1,15 @@
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\bin\Debug\net6.0\GreutateIdeala.exe
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\bin\Debug\net6.0\GreutateIdeala.deps.json
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\bin\Debug\net6.0\GreutateIdeala.runtimeconfig.json
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\bin\Debug\net6.0\GreutateIdeala.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\bin\Debug\net6.0\GreutateIdeala.pdb
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.csproj.AssemblyReference.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.AssemblyInfoInputs.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.AssemblyInfo.cs
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\refint\GreutateIdeala.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.pdb
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\GreutateIdeala.genruntimeconfig.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\GreutateIdeala\GreutateIdeala\obj\Debug\net6.0\ref\GreutateIdeala.dll

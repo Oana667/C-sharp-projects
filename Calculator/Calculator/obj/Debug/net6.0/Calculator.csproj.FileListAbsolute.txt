@@ -1,0 +1,15 @@
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+\\Mac\Home\OneDrive - Technical University of Cluj-Napoca\Documents\Facultate an 3 sem 2\II\Labs\Lab1\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
